@@ -5,6 +5,7 @@ namespace project
         public Form1()
         {
             InitializeComponent();
+            //bobo
         }
     }
 }
